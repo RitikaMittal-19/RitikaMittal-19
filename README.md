@@ -3,9 +3,7 @@
 ## Hi, I'm Ritika Mittal 🌻
 - 🔭 A Full Stack Developer & AI Enthusiast from IIIT Kota (Top 1% | 9.19 CGPA)
 - 👯 I build scalable web applications and solve real-world problems using technology
-- 💬 Let's talk about DSA, System Design, Full Stack Development
 - 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/ritika-mittal-5454sr) or Email (ritikamittal108@gmail.com)
-- ⚡ **Fun fact**: I’ve solved 500+ DSA problems and love optimizing systems for performance 🚀
 
 <details>
 <summary>
@@ -40,7 +38,7 @@ I enjoy solving DSA problems, exploring system design concepts, and collaboratin
 
 ---
 
-### What I’m Currently Working On  
+### I’m Currently Working On  
 
 - ⚡ Scalable backend systems  
 - 🤖 AI integrations in real-world apps  
@@ -83,7 +81,7 @@ I enjoy solving DSA problems, exploring system design concepts, and collaboratin
 
 ---
 
-### Achievements :trophy:
+### Achievements :
 
 - 🧠 Solved 500+ DSA problems (LeetCode Rating: 1700+)  
 - 🏆 CodeChef 2⭐ (Top 15%)  
