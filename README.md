@@ -93,9 +93,7 @@ I enjoy solving DSA problems, exploring system design concepts, and collaboratin
 
 <!-- footer --!>
 <p align="center"><a href="http://hits.dwyl.com/RitikaMittal-19/RitikaMittal-19"><img src="http://hits.dwyl.com/RitikaMittal-19/RitikaMittal-19.svg" alt="HitCount"></a></p>
-<p align="center">
-    <a id="GitHub" href="https://github.com/RitikaMittal-19"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></a>
-    &nbsp;&nbsp;     
+<p align="center">    
     <a id="LinkedIn" href="https://linkedin.com/in/ritika-mittal-5454sr"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> 
     &nbsp;&nbsp;
    <a id="Mail" href="mailto:ritikamittal108@gmail.com"><img width="27px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
