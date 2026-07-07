@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Hi, I'm Ritika Mittal 🌻
--  A Full Stack Developer & AI Enthusiast from IIIT Kota (Top 1% | 9.19 CGPA)
+-  A Full Stack Developer from IIIT Kota (Top 1% | 9.26 CGPA)
 -  I build scalable web applications and solve real-world problems using technology
 -  **How to reach me**: [LinkedIn](https://linkedin.com/in/ritika-mittal-5454sr) or Email (ritikamittal108@gmail.com)
 
@@ -84,7 +84,7 @@ I enjoy solving DSA problems, exploring system design concepts, and collaboratin
 ### Achievements :
 
 - 🧠 Solved 500+ DSA problems (LeetCode Rating: 1700+)  
-- 🏆 CodeChef 2⭐ (Top 15%)  
+- 🏆 CodeChef 2⭐  
 - 📈 Improved system performance, UI engagement & API efficiency across projects  
 
 <br></details>
